@@ -70,7 +70,7 @@ The scope provides context for where the change happened in our Spring architect
 ```bash
 git checkout main
 git pull origin main
-
+```
 **2. Create your feature branch:**
 ```bash
 git checkout -b feat/88-user-profile-dto
